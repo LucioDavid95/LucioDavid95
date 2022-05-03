@@ -9,9 +9,9 @@
 import RPi.GPIO as GPIO
 import time
 
-Lugar1 = 2 #Variale de entrada del primer lugar de estacionamiento de vehiculo
-Lugar2 = 3 #Variale de entrada del segundo lugar de estacionamiento de vehiculo
-Lugar3 = 4 #Variale de entrada del tercer lugar de estacionamiento de vehiculo
+Lugar1 = 2 #Variable de entrada del primer lugar de estacionamiento de vehiculo
+Lugar2 = 3 #Variable de entrada del segundo lugar de estacionamiento de vehiculo
+Lugar3 = 4 #Variable de entrada del tercer lugar de estacionamiento de vehiculo
 Led1 = 17 #Led que indica el estado del lugar 1
 Led2 = 27 #Led que indica el estado del lugar 2
 Led3 = 22 #Led que indica el estado del lugar 3
